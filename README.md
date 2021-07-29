@@ -8,7 +8,7 @@
   <p align="center">
     Tutorial on how to add an password reset process to your django application.
     <br />
-    <a href="#/"><strong>view tutorial »</strong></a>
+    <a href="https://www.thedjangoguy.com/documentation/password-reset/"><strong>view tutorial »</strong></a>
     <br />
   </p>
 </p>
